@@ -1,4 +1,4 @@
-Project () from first semester of a graduate-level numerical analysis course.
+Project () from the first semester of a graduate-level numerical analysis course.
 
 Author: Luke Vaughan
 
