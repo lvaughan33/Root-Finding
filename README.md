@@ -1,4 +1,4 @@
-Assignment from the first semester of a graduate-level numerical analysis course. An equation is solved numerically by finding the root of a test function. Three methods of root finding (Bisection Method, Secant Method, Newton's Method) are shown and compared at the end.
+Assignment from the first semester of a graduate-level numerical analysis course. Code written for the purpose of solving an equation numerically. Strategy: define a test function and find its root. Three methods of root finding (Bisection Method, Secant Method, Newton's Method) are shown and compared at the end.
 
 Author: Luke Vaughan
 
